@@ -1,2 +1,0 @@
-# Course-App
-Course App
