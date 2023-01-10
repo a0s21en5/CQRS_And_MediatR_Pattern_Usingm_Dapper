@@ -4,7 +4,7 @@
 > User Login----try to serach in the registered list and login success or Failure
 > if admin Logs 
 
->Add functionalities
+>Add Some functionalities
 >* Add Course
 >* delete Course
 >* UpdateCourse
