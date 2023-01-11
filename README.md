@@ -1,11 +1,18 @@
 # Course App
 
-> User register----Take a list-----Try to add user who is registering
-> User Login----try to serach in the registered list and login success or Failure
-> if admin Logs 
+> Course APP/Product App with Database(Connected Architecture)
+> Class Library-----Model ------------------------> Course_App_Model
+> Class Library-----Repository ---------------------->Course_App_Repository
+> Console Project----Program.cs(Invoke All the Methods)
 
->Add Some functionalities
+> Admin Functionalities---
 >* Add Course
->* delete Course
->* UpdateCourse
->* Get All Courses
+>* Delete Course
+>* Update Course
+
+ 
+
+>User Functionalities
+>* Book Course-----Courses should be avaliable in the Cart--Table
+>* Delete Course
+>* Cart Bill----Invoice Number for the bill, Extracrt data from year/Month/time
