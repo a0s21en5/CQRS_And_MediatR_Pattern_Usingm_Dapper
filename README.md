@@ -8,9 +8,8 @@
 
 > Admin Functionalities---
 >* Add Course
->* Delete Course
 >* Update Course
-
+>* Delete Course
  
 
 >User Functionalities
