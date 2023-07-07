@@ -40,15 +40,9 @@
 ```
 install-package MediatR
 ```
-
 ```
 MediatR.Extensions.Microsoft.DependencyInjection
 ```
-# In Program
-```
-builder.Services.AddMediatR(typeof(Program));
-```
-
 # In Program
 ```
 builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
