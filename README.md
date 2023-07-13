@@ -1,4 +1,4 @@
-# CQRS And MediatR Pattern Implementation Using .NET Core 6 Web API 
+# CQRS And MediatR Pattern Usingm Dapper
 
 # Directory Structure and File Descriptions
 
